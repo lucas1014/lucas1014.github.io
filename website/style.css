@@ -1,0 +1,48 @@
+h1 {
+    color:rgb(7, 92, 116)
+
+}
+
+h1{
+    background-color: rgb(185, 217, 246);
+    background-position: top;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+h1{
+    font-style: normal;
+}
+
+h1{ 
+    font-weight: 500;
+}
+
+.image {
+    width: 1248px;
+    height: 450px;
+    
+  background-image:url(../website/photos/unnamed-29.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+transition: all ease-in-out 550ms;
+}
+
+.image:hover {
+    
+  background-image:url(../website/photos/unnamed-1.jpg);
+
+}
+
+
+h2{
+    text-align: left;
+
+}
